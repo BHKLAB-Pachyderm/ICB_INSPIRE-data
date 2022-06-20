@@ -1,0 +1,107 @@
+Patient ID	age	Primary	histology	response	pfs	os	t.pfs	t.os
+INS-A-001	62,14	HNC	Squamous cell carcinoma of tongue base	PD	16-juin-16	08-mars-17	3,22	10,61
+INS-A-002	60,29	HNC	Squamous cell carcinoma of retromolar trigone	SD		10-nov-16	2,76	6,54
+INS-A-003	59,23	HNC	Squamous cell carcinoma of floor of mouth	PD	29-juin-16	06-nov-16	1,41	5,68
+INS-A-004	61,12	HNC	Squamous cell carcinoma of floor of mouth	CR			32,43	32,43
+INS-A-007	69,06	HNC	Squamous cell carcinoma of tongue base	PR	05-sept-18		28,78	28,78
+INS-A-008	56,22	HNC	Squamous cell carcinoma of tongue base	PD	04-mai-17	19-juin-17	1,38	3,19
+INS-A-010	61,03	HNC	Squamous cell carcinoma of tonsil	SD	27-sept-17	27-nov-18	5,55	18,17
+INS-A-011	57,5	HNC	Squamous cell carcinoma of tongue 	SD		26-oct-18	8,71	17,12
+INS-A-012	47,2	HNC	Squamous cell carcinoma of soft palate	SD	20-sept-17	30-mars-18	3,25	9,53
+INS-A-013	67,56	HNC	Squamous cell carcinoma of oropharynx	SD	19-oct-17	16-Feb-18	3,91	7,85
+INS-A-014	64,75	HNC	Squamous cell carcinoma of hypopharynx	PD	18-août-17	01-oct-17	1,91	3,35
+INS-A-015	56,82	HNC	Squamous cell carcinoma of hypopharynx/proximal esophagus	SD		05-sept-17	2,3	2,3
+INS-A-018	68,31	HNC	Squamous cell carcinoma of glottis	SD	07-nov-17	8-Dec-17	3,22	4,24
+INS-A-019	67,67	HNC	Squamous cell carcinoma of supraglottis and glottis	PR			18,37	18,37
+INS-A-020	58,39	HNC	Squamous cell carcinoma of tongue	CR			18,66	18,66
+INS-A-021	53,11	HNC	Squamous cell carcinoma of tonsil	SD	09-févr-18	17-juil-18	2,76	8,74
+INS-A-023	49,71	HNC	Squamous cell carcinoma of tonsil	PD	10-janv-18		1,74	17,51
+INS-A-024	48,28	HNC	Squamous cell carcinoma of oral cavity	PD	03-janv-18	19-juil-18	1,84	8,31
+INS-A-025	54,84	HNC	Squamous cell carcinoma of soft pallate	NE		09-janv-18	0,56	0,56
+INS-B-001	52,56	Breast	Triple negative breast cancer	SD	05-août-16	04-janv-17	3,35	8,34
+INS-B-002	54,61	Breast	Triple negative breast cancer	PD	14-mai-16	20-Aug-16	0,69	3,58
+INS-B-003	46,97	Breast	Triple negative breast cancer	PD	04-août-16	27-Feb-18	3,32	20,73
+INS-B-005	41,34	Breast	Triple negative breast cancer	PD	20-sept-16	03-nov-16	1,12	2,56
+INS-B-006	46,83	Breast	Triple negative breast cancer	PD	02-sept-16	25-juin-17	0,33	10,05
+INS-B-007	43,23	Breast	Triple negative breast cancer	PD	05-oct-16	31-oct-16	0,85	1,71
+INS-B-009	37,53	Breast	Triple negative breast cancer	PD	02-nov-16	5-Feb-17	0,95	4,07
+INS-B-011	56,62	Breast	Triple negative breast cancer	SD		18-nov-18	2,04	23,82
+INS-B-014	34,49	Breast	Triple negative breast cancer	PD	21-avr-17	4-May-18	1,87	14,29
+INS-B-015	70,72	Breast	Triple negative breast cancer	PD	05-avr-17	06-juil-17	1,64	4,67
+INS-B-016	59,31	Breast	Triple negative breast cancer	PR			23,46	23,46
+INS-B-017	64	Breast	Triple negative breast cancer	SD	16-oct-17		5,45	23,98
+INS-B-018	37,2	Breast	Triple negative breast cancer	PD	18-juil-17	31-Aug-17	1,74	3,19
+INS-B-019	69,98	Breast	Triple negative breast cancer	PD	20-juil-17	21-Apr-18	1,48	10,51
+INS-B-020	42,96	Breast	Triple negative breast cancer	PD	25-août-17	12-janv-18	1,71	6,31
+INS-B-021	67,88	Breast	Triple negative breast cancer	PD	08-sept-17	06-juil-18	1,61	11,5
+INS-B-022	55,1	Breast	Triple negative breast cancer	PD	07-sept-17	10-mars-19	3,32	19,98
+INS-B-023	34,69	Breast	Triple negative breast cancer	PD	17-nov-17	12-May-18	1,94	7,72
+INS-B-024	52,08	Breast	Triple negative breast cancer	PD	22-déc-17	15-juil-18	1,91	8,64
+INS-B-026	70,04	Breast	Triple negative breast cancer	PD	29-déc-17	01-sept-18	0,92	9
+INS-B-027	61,69	Breast	Triple negative breast cancer	NE		14-mars-18	0,56	0,72
+INS-B-028	52	Breast	Triple negative breast cancer	PD	23-avr-18		0,76	9,72
+INS-C-001	71,6	Ovary	Ovarian, high grade serous	SD	08-août-16		3,78	35,38
+INS-C-002	60,25	Ovary	Ovarian, high grade serous	SD	18-juil-16	2-Feb-18	2,27	20,8
+INS-C-003	69,37	Ovary	Ovarian, high grade serous	SD	26-oct-16		5,26	35,19
+INS-C-004	67,62	Ovary	Ovarian, high grade serous	SD	01-déc-16	30-janv-17	5,98	7,95
+INS-C-005	49,59	Ovary	Ovarian, high grade serous	SD	04-juil-16	10-sept-16	1,08	3,32
+INS-C-006	62,61	Ovary	Ovarian, high grade serous	PD	18-août-16	15-juin-18	2,14	24,02
+INS-C-007	49	Ovary	Ovarian, high grade serous	PD	14-juil-16	20-nov-16	0,92	5,16
+INS-C-008	55,2	Ovary	Ovarian, high grade serous	PD	08-août-16	05-sept-16	1,38	2,3
+INS-C-009	64,02	Ovary	Ovarian, high grade serous	SD		13-nov-17	3,42	16,23
+INS-C-010	34,2	Ovary	Ovarian, high grade serous	PD	13-sept-16	16-sept-17	1,81	13,9
+INS-C-011	49,89	Ovary	Ovarian, high grade serous	PD	06-sept-16	26-nov-16	1,15	3,81
+INS-C-013	49	Ovary	Ovarian, high grade serous	PD	11-oct-16	1-Dec-18	3,52	27,47
+INS-C-015	67,03	Ovary	Ovarian, high grade serous	PD	02-nov-16		2,6	31,67
+INS-C-017	47,14	Ovary	Ovarian, high grade serous	PD	01-nov-16		1,97	25,07
+INS-C-018	61,94	Ovary	Ovarian, high grade serous	SD	25-sept-17		10,55	29,7
+INS-C-020	49,34	Ovary	Ovarian, high grade serous	PD	13-févr-17		1,81	28,32
+INS-C-021	67,61	Ovary	Ovarian, high grade serous	PD	13-févr-17	27-May-17	0,66	4,04
+INS-C-022	50,56	Ovary	Ovarian, high grade serous	PD	08-févr-17	06-nov-17	0,89	9,79
+INS-C-023	63,76	Ovary	Ovarian, high grade serous	PD	21-mars-17		1,84	27,17
+INS-C-024	42,6	Ovary	Ovarian, high grade serous	PD	13-juin-17	30-Aug-17	1,81	4,37
+INS-C-025	41,46	Ovary	Ovarian, high grade serous	PD	25-juil-17	9-Aug-18	1,84	14,32
+INS-D-001	54,77	Melanoma	Melanoma, desmoplastic	PR			23,23	32,92
+INS-D-002	57,83	Melanoma	Melanoma, choroidal	NE		12-Aug-16	0,72	1,05
+INS-D-003	73,01	Melanoma	Melanoma, NOS	PR			30,82	30,82
+INS-D-004	58,74	Melanoma	Melanoma, superficial spreading	PR	17-avr-18		30,75	30,75
+INS-D-005	66,25	Melanoma	Melanoma, NOS	PR	05-mars-18		16,3	28,78
+INS-D-006	39,11	Melanoma	Melanoma, NOS	PR			29,21	29,21
+INS-D-007	55,66	Melanoma	Melanoma, NOS	PD	08-févr-17	18-juin-17	2,86	6,14
+INS-D-008	68,94	Melanoma	Melanoma, NOS	PD	06-avr-17	22-Aug-17	3,45	6,44
+INS-D-009	53,07	Melanoma	Melanoma, mucosal vaginal 	PR			26,22	26,22
+INS-D-011	67,93	Melanoma	Melanoma, superficial spreading	PD	17-juil-17	14-sept-17	1,58	3,52
+INS-D-012	54,35	Melanoma	Melanoma, NOS	PR			21,59	21,59
+INS-D-013	67,06	Melanoma	Melanoma, NOS	CR			17,48	17,48
+INS-E-001	24,12	HNC	Sarcoma, granular cell	PD	02-juin-16	9-Dec-17	3,22	20,14
+INS-E-002	35,4	HNC	Sarcoma, hemangiopericytoma	SD		17-sept-16	4,96	4,96
+INS-E-003	39,48	Other	Adenocarcinoma of endocervix, mucinous type	SD	09-sept-16	16-mars-18	4,44	22,6
+INS-E-004	55,31	HNC	Sarcoma, solitary fibrous tumor	SD			35,42	35,42
+INS-E-005	34,6	Other	Nasopharyngeal carcinoma, non-keratinizing	PD	13-juil-16	20-Aug-16	1,91	3,15
+INS-E-006	53,39	Other	Endometrioid adenocarcinoma of endometrium	PD	06-juil-16	25-sept-16	0,76	3,42
+INS-E-007	41,31	HNC	Squamous cell carcinoma of maxillary sinus, spindle cell type	SD	16-déc-16	11-Dec-17	10,58	17,84
+INS-E-008	47,5	Other	Nasopharyngeal carcinoma, non-keratinizing	SD		14-sept-17	7,85	14,26
+INS-E-011	21,29	HNC	Sarcoma, clear cell	PD	18-oct-16	24-nov-16	2,04	3,25
+INS-E-012	56,27	Other	Small cell carcinoma of anus	PD	20-oct-16	22-oct-17	3,22	13,96
+INS-E-013	80,91	Other	Merkle cell carcinoma	CR			32,1	32,1
+INS-E-015	29,02	HNC	Sarcoma, Hemangiopericytoma	NE			3,81	3,81
+INS-E-016	37,34	Other	Large cell neuroendocrine carcinoma of cervix	PD	02-déc-16	3-Dec-17	1,94	13,96
+INS-E-018	63,99	Other	Adenocarcinoma of GEJ	PD	30-déc-16		1,87	28,19
+INS-E-019	39,03	Other	Clear cell carcinoma of endometriosis	PD	13-janv-17		3,02	29,34
+INS-E-020	71,71	Other	Merkle cell carcinoma	PR	27-juil-17	04-janv-19	15,24	25,33
+INS-E-021	72,14	Other	Squamous cell carcinoma of penis	PD	20-mars-17	16-May-17	1,97	3,84
+INS-E-022	70,17	Other	Merkle cell carcinoma	PR	06-déc-17	03-sept-18	12,19	18,99
+INS-E-023	47,22	Other	Squamous cell carcinoma of anus/rectum	PD	30-mars-17	27-juin-17	1,87	4,8
+INS-E-024	53,6	Other	Adenoid cystic carcinoma	SD	07-juin-17	14-oct-17	3,94	8,18
+INS-E-025	70,91	Other	Adenocarcinoma of colon	PD	10-avr-17	08-oct-17	1,94	7,89
+INS-E-026	40,85	Other	Basal cell and squamous cell poorly differentiated carcinoma	PR			25,92	25,92
+INS-E-027	44,39	Other	Chondrosarcoma	PD	02-mai-17	27-Dec-17	3,02	9,69
+INS-E-028	33,53	Other	Adenocarcinoma of colon	PR			25,2	25,2
+INS-E-029	73,51	Other	Endometrioid adenocarcinoma of endometrium	SD	12-juil-17		5,29	24,8
+INS-E-030	36,07	Other	Myxoid liposarcoma	PD	19-mai-17	14-May-18	1,91	13,73
+INS-E-031	51,06	Other	Adenocarcinoma from biliary system (cholangiocarcinoma)	PD	19-mai-17		3,94	9,49
+INS-E-032	37,36	Other	Adenoid cystic carcinoma	SD	23-mai-18		13,6	24,8
+INS-E-033	65,5	Other	Merkle cell carcinoma	PD	14-juil-17	20-Aug-17	1,15	2,37
+INS-E-034	60,38	Other	Merkle cell carcinoma	PD	13-sept-17	10-janv-18	3,68	5,78
+INS-E-035	52,05	Other	Merkle cell carcinoma	PD	06-oct-17		1,87	18,83
+INS-E-036	55,98	Other	Neuroendocrine tumor of pancreas	SD	14-Feb-18	7-Aug-18	4,01	7,59
